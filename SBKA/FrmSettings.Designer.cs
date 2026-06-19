@@ -87,7 +87,7 @@
             // lblLastSound
             // 
             lblLastSound.AutoSize = true;
-            lblLastSound.Location = new Point(316, 41);
+            lblLastSound.Location = new Point(290, 41);
             lblLastSound.Margin = new Padding(6, 0, 6, 0);
             lblLastSound.Name = "lblLastSound";
             lblLastSound.Size = new Size(56, 32);
@@ -108,7 +108,7 @@
             // lblLastPlayed
             // 
             lblLastPlayed.AutoSize = true;
-            lblLastPlayed.Location = new Point(316, 98);
+            lblLastPlayed.Location = new Point(290, 98);
             lblLastPlayed.Margin = new Padding(6, 0, 6, 0);
             lblLastPlayed.Name = "lblLastPlayed";
             lblLastPlayed.Size = new Size(56, 32);
