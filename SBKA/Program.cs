@@ -276,6 +276,7 @@ namespace SBKA
                 {
                     Icon = Icon.FromHandle(bmp.GetHicon()),
                     ContextMenuStrip = new ContextMenuStrip(),
+                    Text = "SBKA+",
                     Visible = true
                 };
                 trayIcon.ContextMenuStrip.Items.Add("Settings", null, Settings);
