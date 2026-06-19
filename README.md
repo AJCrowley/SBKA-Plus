@@ -83,6 +83,8 @@ I had a sense that the issue was either that the tones played by all of the apps
 
 It is my hope that this program will now serve to handle even the most stubborn of sound bars. I hope that somebody finds it useful. Please use and enjoy it, be nice and support me and <a href="https://github.com/tiaanv/">tiaanv</a>, have fun!
 
+I yield the floor to the author of the original software:
+
 ---
 
 I recently started using an old soundbar as my speakers for my PC.  Only to realise it has an "auto sleep" function that I cannot adjust or disable.  The workaround for this would be to simply make sure that audio is sent to the sound output before it goes to sleep.
