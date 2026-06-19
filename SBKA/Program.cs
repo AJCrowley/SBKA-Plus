@@ -287,7 +287,7 @@ namespace SBKA
                         trayIcon.ContextMenuStrip?.Show(Cursor.Position);
                     }
                 };
-                //Sound();
+                Sound();
             }
 
             private void UpdateTrayIcon()
