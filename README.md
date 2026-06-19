@@ -83,7 +83,7 @@ I had a sense that the issue was either that the tones played by all of the apps
 
 It is my hope that this program will now serve to handle even the most stubborn of sound bars. I hope that somebody finds it useful. Please use and enjoy it, be nice and support me and <a href="https://github.com/tiaanv/">tiaanv</a>, have fun!
 
-I yield the floor to the author of the original software:
+Is sound bar one or two words? I can't tell. I can't even be consistent in my own documentation. I yield the floor to the author of the original software:
 
 ---
 
