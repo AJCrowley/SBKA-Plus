@@ -171,7 +171,7 @@
             groupBox2.Margin = new Padding(6);
             groupBox2.Name = "groupBox2";
             groupBox2.Padding = new Padding(6);
-            groupBox2.Size = new Size(539, 687);
+            groupBox2.Size = new Size(539, 725);
             groupBox2.TabIndex = 0;
             groupBox2.TabStop = false;
             groupBox2.Text = "Audio Device";
@@ -414,7 +414,7 @@
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(581, 1134);
+            ClientSize = new Size(581, 1092);
             Controls.Add(chkStartup);
             Controls.Add(label4);
             Controls.Add(cbSampleRate);
